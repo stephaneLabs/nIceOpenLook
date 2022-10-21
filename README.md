@@ -1,4 +1,4 @@
-# ice_Olvwm
+# nIceOpenLook
 OpenLook (Olvwm/Olvwm) theme for icewm.
 
 ## Resources :
