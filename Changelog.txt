@@ -3,3 +3,6 @@ October 21, 2022
 * Added buttons to title bar (inspired by kde 1)
 * Added a background
 * Added xpm icons
+October 26, 2022
+----------------
+* Modify the taskbar to enhance its whole look using the "flat" icewm engine, lost the app buttons feel, the buttons show no focus when they are pressed.
